@@ -1,5 +1,1 @@
-
-git is awesome!
-new line
-my new line
-super!
+experiment with amend
